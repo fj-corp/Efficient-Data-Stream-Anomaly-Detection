@@ -659,3 +659,7 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+### Additional Licensing Terms
+This software is provided under the AGPL-3.0 License, with the following additional restriction:  
+**Non-Commercial Use Only:** Redistribution, modification, or use of this software is permitted for non-commercial purposes only.
